@@ -1,7 +1,7 @@
 /*
  Name:    pass_the_ring.ino
  Created: 29-Sep-22 4:30:24 PM
- A  uthor:  sami abo srehan
+ Author:  sami abo srehan
 */
 
 #define HOME_PIN 7
